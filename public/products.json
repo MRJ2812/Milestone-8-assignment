@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Product-1",
+    "title": "Weight Lifting",
+    "age": "25-35",
+    "description": " ‘Royal’, ‘Chief’ or ‘King’, alluding to being the ‘best’ or ‘highest’ form of yoga.",
+    "time": 10,
+    "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "Product-2",
+    "title": "ForeArm Exercise",
+    "age": "25-35",
+    "description": " Exercise can help prevent excess weight gain or help maintain weight loss.alluding to being the ‘best’.",
+    "time": 15,
+    "img": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+  },
+  {
+    "id": "Product-3",
+    "title": "Muscle Exercise",
+    "age": "25-35",
+    "description": " Regular trips to the gym are great, but don't worry if you can't find a large chunk of time to exercise every day",
+    "time": 20,
+    "img": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "Product-4",
+    "title": "Streching",
+    "age": "25-35",
+    "description": " Any amount of activity is better than none at all. To reap the benefits of exercise,",
+    "time": 25,
+    "img": "https://images.unsplash.com/photo-1604480133435-25b86862d276?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "Product-5",
+    "title": "Hard Hand",
+    "age": "25-35",
+    "description": " ‘Royal’, ‘Chief’ or ‘King’, alluding to being the ‘best’ or ‘highest’ form of yoga.",
+    "time": 30,
+    "img": "https://images.unsplash.com/photo-1591027480007-a42f6ef886c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "Product-6",
+    "title": "Down Streching",
+    "age": "25-35",
+    "description": "take the stairs instead of the elevator or rev up your household chores alluding to being the ‘best’ or ‘highest’",
+    "time": 40,
+    "img": "https://images.unsplash.com/photo-1581009137042-c552e485697a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  }
+]
